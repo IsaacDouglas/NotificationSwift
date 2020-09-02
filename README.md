@@ -1,0 +1,29 @@
+# NotificationSwift
+
+[![CI Status](https://img.shields.io/travis/IsaacDouglas/NotificationSwift.svg?style=flat)](https://travis-ci.org/IsaacDouglas/NotificationSwift)
+[![Version](https://img.shields.io/cocoapods/v/NotificationSwift.svg?style=flat)](https://cocoapods.org/pods/NotificationSwift)
+[![License](https://img.shields.io/cocoapods/l/NotificationSwift.svg?style=flat)](https://cocoapods.org/pods/NotificationSwift)
+[![Platform](https://img.shields.io/cocoapods/p/NotificationSwift.svg?style=flat)](https://cocoapods.org/pods/NotificationSwift)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+NotificationSwift is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'NotificationSwift'
+```
+
+## Author
+
+IsaacDouglas, isaacdouglas2015@gmail.com
+
+## License
+
+NotificationSwift is available under the MIT license. See the LICENSE file for more info.
