@@ -1,0 +1,31 @@
+PODS:
+  - Nimble (7.3.4)
+  - NotificationSwift (0.1.0)
+  - Quick (1.2.0)
+  - SwiftLint (0.39.2)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0)
+  - NotificationSwift (from `../`)
+  - Quick (~> 1.2.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  NotificationSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  NotificationSwift: c9b84df7692e671815ad40dff1717d53b4e453cf
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
+
+PODFILE CHECKSUM: bd8e02f37ff792aa61ced7d676a708fddaedf060
+
+COCOAPODS: 1.8.4

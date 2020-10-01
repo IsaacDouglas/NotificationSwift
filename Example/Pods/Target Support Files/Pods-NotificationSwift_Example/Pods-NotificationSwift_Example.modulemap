@@ -1,0 +1,6 @@
+framework module Pods_NotificationSwift_Example {
+  umbrella header "Pods-NotificationSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

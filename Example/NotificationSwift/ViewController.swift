@@ -7,12 +7,19 @@
 //
 
 import UIKit
+import NotificationSwift
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        let info = Info(identifier: "identifier",
+                        categoryIdentifier: "category",
+                        title: "Title",
+                        body: "Subtitle",
+                        time: 10)
+        NotificationHandler.shared.notificationWith(info: info, repeats: false)
     }
 
     override func didReceiveMemoryWarning() {
@@ -21,4 +28,3 @@ class ViewController: UIViewController {
     }
 
 }
-

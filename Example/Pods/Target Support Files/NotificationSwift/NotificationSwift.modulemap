@@ -1,0 +1,6 @@
+framework module NotificationSwift {
+  umbrella header "NotificationSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
