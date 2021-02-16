@@ -48,7 +48,7 @@
 		C8A4692DFD6E7B6CB76BC59A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D9ED0E7670C51FCA4F7709F8 /* Pods-NotificationSwift_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NotificationSwift_Tests.debug.xcconfig"; path = "Target Support Files/Pods-NotificationSwift_Tests/Pods-NotificationSwift_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E53EC09352C67F2D3EF7BB95 /* Pods_NotificationSwift_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NotificationSwift_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED2932708AB1BA486D14E620 /* NotificationSwift.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NotificationSwift.podspec; path = ../NotificationSwift.podspec; sourceTree = "<group>"; };
+		ED2932708AB1BA486D14E620 /* NotificationSwift.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NotificationSwift.podspec; path = ../NotificationSwift.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
